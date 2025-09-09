@@ -1,47 +1,97 @@
-**RJ Mart Sales Dashboard**
-This project is a comprehensive sales dashboard for RJ Mart, developed as part of an MCA coursework in Cloud Computing & DevOps. It provides an insightful analysis of sales performance, customer satisfaction, and inventory distribution using Power BI and DAX.
 
-**Project Overview**
-The RJ Mart Sales Dashboard visualizes sales data to help stakeholders understand key business metrics. It covers the following key performance indicators (KPIs):
+# 🛒 Blinkit Sales Dashboard (Power BI)
 
-Total Sales: $1.20 million
-Average Sales per Transaction: $141
-Number of Items Sold: 8,523
-Average Customer Rating: 3.9/5
+📊 A comprehensive sales analytics dashboard for **Blinkit**, designed as part of the MCA coursework in **Cloud Computing & DevOps**.  
+This project provides actionable insights into sales performance, customer satisfaction, and inventory distribution using **Power BI** and **DAX**.
 
+---
 
-**Features**
-Visualizations: Includes donut charts, bar charts, stacked column charts, line charts, pie charts, funnel maps, and matrix cards to represent sales data.
+## 📖 Project Overview  
+The Blinkit Sales Dashboard visualizes sales data to help stakeholders analyze business performance and make data-driven decisions.  
 
-**Data Insights:**
-Sales Trends: Analysis of sales over time.
-Customer Preferences: Insights into popular items and customer ratings.
-Outlet Performance: Comparison of sales by outlet type, size, and location.
+**Key Performance Indicators (KPIs):**
+- **Total Sales:** $1.20 Million  
+- **Average Sales per Transaction:** $141  
+- **Number of Items Sold:** 8,523  
+- **Average Customer Rating:** 3.9 / 5  
 
-**Analysis Objectives:**
-Customer segmentation
-Inventory management and distribution
-Profitability and trend analysis
-Technical Details
-Tools: Power BI
-Dataset: Contains information on sales transactions, customer feedback, and inventory details.
+---
 
-**Key Sections:**
-Project Scope
-Research Methodology
-Requirement Analysis
-Cost Estimation
-Dashboard Review
-Conclusion
-Getting Started
+## 📈 Key Features
+- **Visualizations:** Donut charts, bar charts, stacked column charts, line charts, pie charts, funnel maps, and matrix cards  
+- **Sales Trends:** Monthly and yearly sales performance insights  
+- **Customer Preferences:** Popular items, ratings, and purchase behavior  
+- **Outlet Performance:** Comparison by outlet type, size, and location  
+- **Analysis Objectives:**
+  - Customer segmentation  
+  - Inventory management & distribution  
+  - Profitability and trend analysis  
 
-**Clone this repository:**
-git clone https://github.com/rohitjaiswalrj32/Data-Analytics-Mini-Project.git
+---
 
-Open the .pbix file in Power BI to explore the dashboard.
+## 🛠️ Tools & Technologies  
+- **Power BI** for data modeling and visualization  
+- **DAX** for advanced calculations  
+- **Excel / SQL** for initial data cleaning and preparation  
+- **Windows OS** for project development and execution  
 
-**Contributions**
-Contributions, feedback, and suggestions are welcome! Please open an issue or submit a pull request.
+---
 
-**License**
-Specify the license for your project (e.g., MIT, Apache 2.0) if applicable.
+## 📁 Repository Structure  
+```
+Blinkit-Sales-Dashboard/
+│-- data/               # Raw & cleaned datasets
+│-- dashboard/          # Power BI .pbix file
+│-- screenshots/        # Dashboard screenshots
+│-- README.md           # Project documentation
+```
+
+---
+
+## 📊 Dashboard Preview  
+
+Take a look at the Blinkit Sales Dashboard for quick insights:  
+
+![Dashboard Screenshot](screenshots/Dashboard.png)  
+
+> 🎯 Designed for clarity, interactivity, and actionable insights.
+
+---
+
+## 🚀 Getting Started  
+
+1. **Clone the repository**  
+   ```bash
+   [https://github.com/rohitjaiswalrj32/Blinkit_Sales_Dashboard.git]
+   ```
+2. **Open the .pbix file** in **Power BI Desktop**.  
+3. **Explore the dashboard** using filters and drill-downs for insights.  
+
+---
+
+## 📚 Project Sections  
+- **Project Scope**  
+- **Research Methodology**  
+- **Requirement Analysis**  
+- **Cost Estimation**  
+- **Dashboard Review**  
+- **Conclusion & Future Enhancements**  
+
+---
+
+## 🤝 Contributions  
+Contributions, issues, and feature requests are welcome!  
+Feel free to open an **issue** or submit a **pull request**.
+
+---
+
+## 📜 License  
+Specify the license for your project here (e.g., MIT, Apache 2.0).  
+
+---
+
+## 👤 Author  
+**Rohit Jaiswal**  
+MCA | Aspiring Data Analyst  
+📧 [rohitjaiswalrj32@gmail.com](mailto:rohitjaiswalrj32@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/rohitjaiswalrj32/) | [GitHub](https://github.com/rohitjaiswalrj32)  
